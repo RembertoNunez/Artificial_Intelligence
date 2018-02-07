@@ -1,0 +1,56 @@
+header, nav, footer,ul {
+    text-align: center;
+}
+
+ul li {
+	float: left;
+	list-style: none;
+	margin-right: 1em;
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	padding: 12px; 
+}
+ 
+li a {
+	color: #544738;
+	text-decoration: none;
+	float: left;
+}
+ 
+.left a:hover {
+	-webkit-transition:All .5s ease;
+	-moz-transition:All .5s ease;
+	-o-transition:All .5s ease;
+	
+	-webkit-transform: rotate(-10deg) scale(1.2);
+	-moz-transform: rotate(-10deg) scale(1.2);
+	-o-transform: rotate(-10deg) scale(1.2);
+}
+ 
+.right a:hover {
+	-webkit-transition:All .5s ease;
+	-moz-transition:All .5s ease;
+	-o-transition:All .5s ease;
+	
+	-webkit-transform: rotate(10deg) scale(1.2);
+	-moz-transform: rotate(10deg) scale(1.2);
+	-o-transform: rotate(10deg) scale(1.2);
+}
+
+footer {
+    font-size: .7em;
+    color: gray;
+    clear: left;
+}
+
+h1 {
+	font-family: 'Dancing Script', Georgia, Times, serif;
+	font-size: 59px;
+	line-height: 60px;
+}
+ 
+p {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 25px;
+}
