@@ -30,7 +30,6 @@
         </ul>
         </header>
     <section id = "left">
-        <a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a>
         <figure>
             <img src="img/ai.jpg" alt="brain" />
         </figure>
