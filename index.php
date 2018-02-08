@@ -30,7 +30,6 @@
         </ul>
         </header>
         <section id = "left">
-            <h2>HI</h2>
             <figure>
                 <img src="img/ai.jpg" alt="brain" />
             </figure>
