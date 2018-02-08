@@ -36,7 +36,7 @@
             enabling businesses to gain more insight out of their data.</p>
             <p>AI or artificial intelligence is the simulation of human intelligence processes by machines,
             especially computer systems. These processes include learning, reasoning, and self-correction.  In this you will se more about AI's 
-            deep learning, natural langauges processing and where AI could be implemented</p>
+            deep learning, natural languages processing and where AI could be implemented</p>
             <p><a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a></p>
         </section>
         <footer>
