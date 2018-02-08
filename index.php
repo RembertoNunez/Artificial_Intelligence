@@ -45,7 +45,6 @@
         are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
         enabling businesses to gain more insight out of their data.</p>
     </section>
-        </body>
     <footer>
         <hr>
             Internet Programming CST-336. 2018&copy; Nunez <br />
@@ -55,4 +54,5 @@
                 <img src="img/csumb.jpg" alt="CSUMB Logo" />
         </figure>
     </footer>
+    </body>
 </html>
