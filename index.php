@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-        body  {
-            background-image: url("img/bg.jpg");
-            background-color: #cccccc;
-        }
-        </style>
         <meta charset=utf-8 />
         <meta name="description" content="description">
         <title>AI: Artificial Intelligence</title>

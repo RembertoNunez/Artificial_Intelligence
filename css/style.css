@@ -2,11 +2,12 @@ header {
     text-align: center;
 }
 
-footer {
-	text-align: center;
+body {
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
 }
 
-ul {
+nav {
 	text-align: center;
 }
 
@@ -23,6 +24,10 @@ li a {
 	color: black;
 	text-decoration: none;
 	float: left;
+}
+
+ul {
+	text-align: center;
 }
  
 .left a:hover {
@@ -41,6 +46,10 @@ footer {
     clear: left;
 }
 
+img {
+	margin: auto;
+}
+
 h1 {
 	font-family: 'Dancing Script', Georgia, Times, serif;
 	font-size: 59px;
@@ -52,13 +61,26 @@ p {
 	font-size: 16px;
 	line-height: 25px;
 }
+
 section {
     margin: auto;
+}
+
+footer {
+	text-align: center;
+}
+
+a {
+	margin: auto;
 }
 
 #left {
 	width:25%;
 	float: left;
+}
+
+hr {
+	margin: auto;
 }
 
 #right {
@@ -69,4 +91,8 @@ section {
 
 h2 {
 	font-family: Courier New; 
+}
+
+figure {
+	margin: auto;
 }
