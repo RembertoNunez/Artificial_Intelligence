@@ -29,9 +29,8 @@
         	<li class="right"><a href="aiin.html">AI IN</a></li>
         </ul>
         </header>
-    </body>
     <section id = "left">
-        <a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a> to go to yahoo.
+        <a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a>
         <figure>
             <img src="img/ai.jpg" alt="brain" />
         </figure>
@@ -46,6 +45,7 @@
         are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
         enabling businesses to gain more insight out of their data.</p>
     </section>
+        </body>
     <footer>
         <hr>
             Internet Programming CST-336. 2018&copy; Nunez <br />
