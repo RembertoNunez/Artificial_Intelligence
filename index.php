@@ -1,5 +1,11 @@
 <html>
     <head>
+        <style>
+        body  {
+            background-image: url("img/bg.jpg");
+            background-color: #cccccc;
+        }
+        </style>
         <meta charset=utf-8 />
         <meta name="description" content="description">
         <title>AI: Artificial Intelligence</title>
@@ -18,16 +24,27 @@
         <ul id="nav">
         	<li class="left"><a href="index.php">About Artificial Intelligence</a></li>
         	<li class="right"><a href="deeplearning.html">Deep Learning</a></li>
-        	<li class="left"><a href="machinelearning.html">Machine Learning</a></li>
         	<li class="right"><a href="naturalprocessing.html">Natural Language Processing</a></li>
+        	<li class="left"><a href="aiin.html">AI IN</a></li>
         </ul>
         </header>
     </body>
-    <main>
-        <div id="aboutAI">
-            <p>Iasd;lfkjasd;lfkja;lsdkjf;alskdjfa;lsdkjfad;lskfjal;ksdjf</p>
-        </div>
-    </main>
+    <section id = "left">
+        <figure>
+            <img src="img/ai.jpg" alt="brain" />
+        </figure>
+    </section>
+    <section id ="right">
+        <h2>What is AI?</h2>
+        <p>AI or artificial intelligence is the simulation of human intelligence processes by machines,
+        especially computer systems. These processes include learning, reasoning, and self-correction. Particular 
+        applications of AI include expert systems, speech recognition and machine vision.</p>
+        <p>AI was coined by John McCarthy, an American computer scientist, in 1956 at The Dartmouth Conference. Today, it is an umbrella 
+        term that encompasses everything from robotic process automation to actual robotics.
+        It has gained prominence recently due, in part, to big data, or the increase in speed, size and variety of data businesses 
+        are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
+        enabling businesses to gain more insight out of their data.</p>
+    </section>
     <footer>
         <hr>
             Internet Programming CST-336. 2018&copy; Nunez <br />

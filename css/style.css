@@ -12,34 +12,24 @@ ul li {
 }
  
 li a {
-	color: #544738;
+	color: black;
 	text-decoration: none;
 	float: left;
 }
  
 .left a:hover {
 	-webkit-transition:All .5s ease;
-	-moz-transition:All .5s ease;
-	-o-transition:All .5s ease;
-	
 	-webkit-transform: rotate(-10deg) scale(1.2);
-	-moz-transform: rotate(-10deg) scale(1.2);
-	-o-transform: rotate(-10deg) scale(1.2);
 }
  
 .right a:hover {
 	-webkit-transition:All .5s ease;
-	-moz-transition:All .5s ease;
-	-o-transition:All .5s ease;
-	
 	-webkit-transform: rotate(10deg) scale(1.2);
-	-moz-transform: rotate(10deg) scale(1.2);
-	-o-transform: rotate(10deg) scale(1.2);
 }
 
 footer {
     font-size: .7em;
-    color: gray;
+    color: white;
     clear: left;
 }
 
@@ -53,4 +43,18 @@ p {
 	font-family: 'Lekton', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 25px;
+}
+section {
+    margin: auto;
+}
+
+#left {
+	width:25%;
+	float: left;
+}
+
+#right {
+	width: 55%;
+    float: right;
+    margin-right: 150px;
 }
