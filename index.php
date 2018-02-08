@@ -39,8 +39,7 @@
         <p>AI or artificial intelligence is the simulation of human intelligence processes by machines,
         especially computer systems. These processes include learning, reasoning, and self-correction. Particular 
         applications of AI include expert systems, speech recognition and machine vision.</p>
-        <p>AI was coined by John McCarthy, an American computer scientist, in 1956 at The Dartmouth Conference. Today, it is an umbrella 
-        term that encompasses everything from robotic process automation to actual robotics.
+        <p>AI was coined by John McCarthy, an American computer scientist, in 1956 at The Dartmouth Conference. 
         It has gained prominence recently due, in part, to big data, or the increase in speed, size and variety of data businesses 
         are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
         enabling businesses to gain more insight out of their data.</p>
