@@ -24,8 +24,8 @@
         <ul id="nav">
         	<li class="left"><a href="index.php">About Artificial Intelligence</a></li>
         	<li class="right"><a href="deeplearning.html">Deep Learning</a></li>
-        	<li class="right"><a href="naturalprocessing.html">Natural Language Processing</a></li>
-        	<li class="left"><a href="aiin.html">AI IN</a></li>
+        	<li class="left"><a href="naturalprocessing.html">Natural Language Processing</a></li>
+        	<li class="right"><a href="aiin.html">AI IN</a></li>
         </ul>
         </header>
     </body>

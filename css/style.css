@@ -1,5 +1,13 @@
-header, nav, footer,ul {
+header {
     text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
+ul {
+	text-align: center;
 }
 
 ul li {
@@ -54,7 +62,10 @@ section {
 }
 
 #right {
-	width: 55%;
+	width: 50%;
     float: right;
-    margin-right: 150px;
+}
+
+h2 {
+	font-family: 
 }
