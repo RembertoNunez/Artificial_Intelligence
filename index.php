@@ -44,6 +44,7 @@
         It has gained prominence recently due, in part, to big data, or the increase in speed, size and variety of data businesses 
         are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
         enabling businesses to gain more insight out of their data.</p>
+        <p><a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a></p>
     </section>
     <footer>
         <hr>
