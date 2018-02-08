@@ -30,13 +30,13 @@
         </section>
         <section id ="right">
             <h2>What is AI?</h2>
-            <p>AI or artificial intelligence is the simulation of human intelligence processes by machines,
-            especially computer systems. These processes include learning, reasoning, and self-correction. It also includes 
-            speech recognition and machine vision.</p>
             <p>The idea of an AI was brought by John McCarthy, a computer scientist, in 1956 at The Dartmouth Conference. 
             It has gained prominence recently due, in part, to big data, or the increase in speed, size and variety of data businesses 
             are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, 
             enabling businesses to gain more insight out of their data.</p>
+            <p>AI or artificial intelligence is the simulation of human intelligence processes by machines,
+            especially computer systems. These processes include learning, reasoning, and self-correction.  In this you will se more about AI's 
+            deep learning, natural langauges processing and where AI could be implemented</p>
             <p><a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">AI Link</a></p>
         </section>
         <footer>
