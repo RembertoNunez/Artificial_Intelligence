@@ -31,6 +31,7 @@
         </header>
     </body>
     <section id = "left">
+        <h2></h2>
         <figure>
             <img src="img/ai.jpg" alt="brain" />
         </figure>
