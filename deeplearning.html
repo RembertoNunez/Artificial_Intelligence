@@ -11,7 +11,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     </head>
-    <body>
+    <body id="every">
         <header>
         <h1>
             AI: Artificial Intelligence
